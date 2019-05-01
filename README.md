@@ -11,8 +11,12 @@ pip django-imagekit
 
 - 
 _post.html
+
 list.html
+
 views.py
+
 base.html
+
 몇몇만 보면됨
 
